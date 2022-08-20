@@ -2,7 +2,7 @@
 I'm Papakia. Im software developer from the South Korea.
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=papakia887&data=followers,repositories,stars,commits"></p>
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,cpp,csharp,go,json,bash,lua&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json&includeNames=true"></p>
 
 
 ### I'm interested in...
