@@ -12,8 +12,7 @@ I'm Papakia. Im software developer from the South Korea.
 - Discord Bot
 
 ## Contact
-- 파파키#8404 on Discord
-- Telegram @papakia1234
+- TeleGram @JINGBUGER
 
 
 
