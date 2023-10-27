@@ -12,7 +12,7 @@ I'm Papakia. Im software developer from the South Korea.
 - Discord Bot
 
 ## Contact
-- TeleGram @JINGBUGER
+- TeleGram @ISEDOL
 
 
 
