@@ -6,13 +6,13 @@ I'm Papakia. Im software developer from the South Korea.
 
 
 ### I'm interested in...
-- Minecraft Clients
+- Minecraft Client
 - Web
 - Node.js
 - Discord Bot
 
 ## Contact
-- TeleGram @ISEDOL
+- Telegram @isedol
 
 
 
