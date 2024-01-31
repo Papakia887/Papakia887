@@ -1,5 +1,5 @@
 # Hi! 👋
-I'm Papakia. Im software developer from the South Korea.
+Thank for join my page ;)
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=papakia887&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json&includeNames=true"></p>
@@ -7,7 +7,7 @@ I'm Papakia. Im software developer from the South Korea.
 
 ### I'm interested in...
 - Minecraft Client
-- Web
+- Web(flask)
 - Node.js
 - Discord Bot
 
