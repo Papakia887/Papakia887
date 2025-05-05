@@ -5,15 +5,6 @@ Thank for join my page ;)
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json&includeNames=true"></p>
 
 
-### I'm interested in...
-- Minecraft Client
-- Web(flask)
-- Node.js
-- Discord Bot
-
-## Contact
-- Telegram @isedol
-
 
 
 ![](https://komarev.com/ghpvc/?username=papakia887&style=for-the-badge)
